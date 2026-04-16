@@ -7,9 +7,11 @@ I build scalable REST APIs and specialize in relational databases (PostgreSQL) a
 Currently focusing on backend system design, API architecture, PostgreSQL, and Docker-based deployments.
 
 
+
+
 ## 🏗️ Featured Projects
 
-# 🟢 Dropit API — Flagship Backend System
+### 🟢 Dropit API — Flagship Backend System
 
 Backend system for a delivery platform.
 
@@ -41,6 +43,7 @@ Tech: Node.js + (your actual stack here)
 
 
 
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -69,8 +72,9 @@ Tech: Node.js + (your actual stack here)
 
 
 
+
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-hushamsadd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hushamsadd@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hushamsadd@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein%20Shams%20Addin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hushamsadd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hushamsadd)
