@@ -1,13 +1,13 @@
 ### 🐧👋 Hi there! I'm Husein (Zain)
 ### Backend-Focused Developer | Node.js | Express | PostgreSQL | Linux | Docker
-
+---
 I’m a software developer focused on backend systems, APIs, and Linux-based environments.
 
 I build scalable REST APIs and specialize in relational databases (PostgreSQL) and backend API design, focusing on clean, reliable, and production-ready systems.
 
 Currently focusing on backend system design, API architecture, PostgreSQL, and Docker-based deployments.
 
-
+---
 
 ### 🏗️ Featured Projects
 
@@ -41,7 +41,7 @@ Tech: Node.js + (your actual stack here)
 
 🔗 https://github.com/hshamsadd/Oscarify
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -68,3 +68,11 @@ Tech: Node.js + (your actual stack here)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-hushamsadd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hushamsadd@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein%20Shams%20Addin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hushamsadd)
