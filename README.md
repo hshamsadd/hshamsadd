@@ -1,7 +1,6 @@
-### 🐧👋 Hi there! I'm Husein (Zain)
-### Backend-Focused Developer | Node.js | Express | PostgreSQL | Linux | Docker
+## 🐧👋 Hi there! I'm Husein (Zain)
+## Backend-Focused Developer | Node.js | Express | PostgreSQL | Linux | Docker
 
----
 I’m a software developer focused on backend systems, APIs, and Linux-based environments.
 
 I build scalable REST APIs and specialize in relational databases (PostgreSQL) and backend API design, focusing on clean, reliable, and production-ready systems.
