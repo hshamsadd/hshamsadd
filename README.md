@@ -9,7 +9,7 @@ I build scalable REST APIs and specialize in relational databases (PostgreSQL) a
 Currently focusing on backend system design, API architecture, PostgreSQL, and Docker-based deployments.
 
 
-### 🏗️ Featured Projects
+## 🏗️ Featured Projects
 ---
 
 ### 🟢 Dropit API — Flagship Backend System
