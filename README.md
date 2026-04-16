@@ -10,7 +10,6 @@ Currently focusing on backend system design, API architecture, PostgreSQL, and D
 
 
 ## 🏗️ Featured Projects
----
 
 ### 🟢 Dropit API — Flagship Backend System
 
