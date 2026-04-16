@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🐧👋 Hi there! I'm Zain
+# Full-Stack Developer | MERN Stack | Linux & Cloud Enthusiast
 
-<!--
-**hshamsadd/hshamsadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and HackYourFuture graduate with hands-on experience building scalable web applications using modern technologies. Strong foundation in backend systems, Linux, networking, and cloud concepts.
 
-Here are some ideas to get you started:
+I focus on writing clean, maintainable code and building reliable systems, while continuously improving my skills in backend development and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Core Skills
+
+Languages & Frameworks
+JavaScript • TypeScript • React • Node.js • Express • NestJS • Go
+
+Backend & APIs
+REST APIs • Authentication (JWT) • API Design
+
+Databases
+MongoDB • PostgreSQL
+
+Systems & DevOps
+Linux (RHEL) • Bash • Docker • Networking • Terraform (basic)
+
+Tools
+Git • GitHub • VS Code
