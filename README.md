@@ -6,6 +6,7 @@ I’m a software developer focused on backend systems, APIs, and Linux-based env
 I build scalable REST APIs and specialize in relational databases (PostgreSQL) and backend API design, focusing on clean, reliable, and production-ready systems.
 
 Currently focusing on backend system design, API architecture, PostgreSQL, and Docker-based deployments.
+
 ---
 ### 🏗️ Featured Projects
 
