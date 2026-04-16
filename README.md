@@ -80,4 +80,4 @@ Tech: Node.js + (your actual stack here)
 
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hushamsadd@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein%20Shams%20Addin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hshamsadd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hshamsadd)
