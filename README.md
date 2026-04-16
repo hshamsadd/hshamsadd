@@ -1,4 +1,4 @@
-## 🐧👋 Hey there! I'm Hussein (Zain)
+## 🐧Hello there! I'm Hussein (Zain)
 
 I’m a software developer focused on backend systems, APIs, and Linux-based environments.
 
@@ -11,7 +11,7 @@ Currently focusing on backend system design, API architecture, PostgreSQL, and D
 
 ## 🏗️ Featured Projects
 
-### 🟢 Dropit API — Flagship Backend System
+### Dropit API — Flagship Backend System
 
 Backend system for a delivery platform.
 
@@ -22,7 +22,7 @@ Clean architecture (controllers/services/repositories)
 🔗 https://github.com/hshamsadd/Dropit
 
 
-## 🟡 Chartify — Data & API Integration Project
+## Chartify — Data & API Integration Project
 
 API-driven system for generating or handling structured data visualizations.
 
@@ -32,7 +32,7 @@ Tech: Node.js / APIs / external services (depending on your implementation)
 🔗 https://github.com/hshamsadd/Chartify
 
 
-## 🔵 Oscarify — Secondary Backend/Experiment Project
+## Oscarify — Secondary Backend/Experiment Project
 
 Backend experiment or service-based application.
 
@@ -76,5 +76,4 @@ Tech: Node.js + (your actual stack here)
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hushamsadd@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hushamsadd)
