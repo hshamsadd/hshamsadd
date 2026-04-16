@@ -1,5 +1,5 @@
 ## 🐧👋 Hi there! I'm Zain
-# Full-Stack Developer | MERN Stack | Linux & Cloud Enthusiast
+## Full-Stack Developer | MERN Stack | Linux & Cloud Enthusiast
 
 Full-stack developer and HackYourFuture graduate with hands-on experience building scalable web applications using modern technologies. Strong foundation in backend systems, Linux, networking, and cloud concepts.
 
